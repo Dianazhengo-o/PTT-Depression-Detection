@@ -50,7 +50,7 @@ A dual-stream fusion network combining BERT and linguistic features for depressi
 
 **Google Colab Notebook Link:**
 ```text
-[https://colab.research.google.com/drive/1zbq-JjOXEJ-BZIm9bOUj-FOYbO_mZfkk](https://colab.research.google.com/drive/1oeSXA2O_t-xSp8dpphWUdIPPfAP_VO5M?usp=sharing)
+https://colab.research.google.com/drive/1oeSXA2O_t-xSp8dpphWUdIPPfAP_VO5M?usp=sharing
 ```
 
 ---
