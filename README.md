@@ -46,7 +46,7 @@ A dual-stream fusion network combining BERT and linguistic features for depressi
 
 ## 原始程式碼與執行環境
 
-由於 GitHub 預覽限制，如需查看完整的互動式代碼與執行紀錄，請至 Google Colab 存取原始檔案。
+由於 GitHub 預覽限制，如需查看完整的執行紀錄，請至 Google Colab 存取原始檔案。
 
 **Google Colab Notebook Link:**
 ```text
